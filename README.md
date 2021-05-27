@@ -18,7 +18,7 @@ Eğer görevde net olmayan noktalar olduğunu düşünüyorsanız, lütfen bizim
 ---
 
 ## Görev 1 - Siparişler
-Siparişler için ekleme / silme / listeleme işlemlerinin gerçekleştirilebileceği bir **RESTful** API servisi oluşturun.
+Siparişler için, ekleme / silme / listeleme işlemlerinin gerçekleştirilebileceği bir **RESTful** API servisi oluşturun.
 
 ### Sipariş Kuralları Nedir?
 - Yeni sipariş eklenirken, satın alınan ürünün stoğu yeterli değilse (**products.stock**) bir hata mesajı döndürün.
@@ -28,8 +28,7 @@ Siparişler için ekleme / silme / listeleme işlemlerinin gerçekleştirilebile
 - [orders.json](./example-data/orders.json)
 - [products.json](./example-data/products.json)
 - [customers.json](./example-data/customers.json)
-
----
+- 
 
 ## Görev 2 - İndirimler
 Verilen siparişler için indirimleri hesaplayan küçük bir **RESTful** API servisi oluşturun.
