@@ -1,0 +1,17 @@
+{
+    "orderId": 3,
+    "discounts": [
+        {
+            "discountReason": "BUY_5_GET_1",
+            "discountAmount": "11.28",
+            "subtotal": "1263.90"
+        },
+        {
+            "discountReason": "10_PERCENT_OVER_1000",
+            "discountAmount": "127.51",
+            "subtotal": "1136.39"
+        }
+    ],
+    "totalDiscount": "138.79",
+    "discountedTotal": "1136.39"
+}
