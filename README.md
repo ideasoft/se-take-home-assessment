@@ -28,7 +28,6 @@ Siparişler için, ekleme / silme / listeleme işlemlerinin gerçekleştirilebil
 - [orders.json](./example-data/orders.json)
 - [products.json](./example-data/products.json)
 - [customers.json](./example-data/customers.json)
-- 
 
 ## Görev 2 - İndirimler
 Verilen siparişler için indirimleri hesaplayan küçük bir **RESTful** API servisi oluşturun.
@@ -41,4 +40,4 @@ Verilen siparişler için indirimleri hesaplayan küçük bir **RESTful** API se
 Lütfen gelecekte daha fazla indirim kuralı eklenebileceğini göz önünde bulundurun.
 
 ### Örnek Cevap:
-- [discount.resopnse.json](./example-data/discount.resopnse.json)
+- [discount.response.json](./example-data/discount.response.json)
