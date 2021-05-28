@@ -4,7 +4,7 @@
 - Lütfen bu görev için bir github reposu açın ve adresini bizimle paylaşın.
 - Görevin tamamlanacağı yazılım dili PHP'dir.
 - Tercih ettiğiniz library veya framework'ü kullanabilirsiniz.
-- Veritabanı, kuyruk vb. 3.ncü parti araçları gerektiren görevlerde marka/teknoloji sınırlaması yoktur.
+- Veritabanı, kuyruk vb. 3.ncü parti araçları gerektiren görevlerde ürün/teknoloji sınırlaması yoktur.
 - Dilediğiniz dış kaynaklardan faydalanabilirsiniz. Lütfen kullandığınız dış kaynak ve kodları görev içerisinde yorum olarak belirtin.
 
 Bu görevde herhangi bir zaman sınırlaması bulunmamaktadır.
