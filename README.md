@@ -9,6 +9,9 @@
 
 Bu görevde herhangi bir zaman sınırlaması bulunmamaktadır.
 
+## Docker
+Görev geliştirmesi Docker platformu üzerinde ayağa kaldırılıp test edilebilmelidir.
+
 ## Veriler
 Örnek JSON dosyalarına [example-data](./example-data) klasöründen ulaşabilirsiniz.
 
